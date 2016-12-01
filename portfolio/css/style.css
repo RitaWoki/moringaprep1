@@ -1,0 +1,22 @@
+body {
+    background: #CBBB9B;
+    margin: 0;
+    padding: 0;
+    font-family: "Helvitica", "Arial"
+}
+
+#wrapper {
+    width: 960px;
+    height: auto;
+    background-color: #DAD5C1;
+    border-left: 5px solid #A09885;
+    border-right: 5px solid #A09885;
+    overflow: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.img {
+    height: 50%;
+    width: 40%;
+}
